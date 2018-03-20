@@ -1,0 +1,12 @@
+{
+    "name": "leonardo/aulapdf",
+    "authors": [
+        {
+            "name": "Leonardo",
+            "email": "leoroberto.alves@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^7.0"
+    }
+}
