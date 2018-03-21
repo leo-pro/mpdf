@@ -93,7 +93,7 @@ $html = '
     </html>
 ';
 $path = (getenv('MPDF_ROOT')) ? getenv('MPDF_ROOT') : __DIR__;
-require_once $path . '../vendor/autoload.php';
+require_once $path . '/vendor/autoload.php';
 $mpdf = new \Mpdf\Mpdf([
 	'margin_left' => 10,
 	'margin_right' => 8,
