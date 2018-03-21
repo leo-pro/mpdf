@@ -43,7 +43,7 @@ $html = '
             }
             table tbody td
             {
-                background-color: rgba(12, 149, 190, 0.7);
+                background-color: rgba(180, 189,200, 0.7);
             }
             .items td.blanktotal {
                 background-color: #EEEEEE;
