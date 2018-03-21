@@ -12,5 +12,16 @@
         <h1>Gerar PDF com mpdf em PHP</h1>
         <a class="btn btn-dark" href="gerarPDF.php" target="_blanck">Gerar PDF</a></button>
     </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <?php
+
+        phpinfo();
+
+    ?>
 </body>
 </html>
