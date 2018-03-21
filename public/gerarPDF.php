@@ -1,21 +1,4 @@
 <?php 
-
-    // require __DIR__.'/vendor/autoload.php';
-
-    // $envPdf = new \app\classes\Pdf();
-
-    // $pagina =   "<html>
-    //                 <body>
-    //                     <h1>Hello, world into a PDF file!</h1>
-    //                 </body>
-    //             </html>";
-
-    // $arquivo = "teste.pdf";
-
-    // $metodo = "I"; //I ou D ou F
-
-    // $envPdf->CriarPdf($pagina, $arquivo, $metodo);
-
     
 $html = '
     <html>
